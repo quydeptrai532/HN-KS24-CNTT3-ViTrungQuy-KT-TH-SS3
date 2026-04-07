@@ -15,8 +15,8 @@ public class EmployeeController {
         List<Employee> list = new ArrayList<>();
         list.add(new Employee(1, "Quydz", "Rikkei IT Dev", 12000));
         list.add(new Employee(2, "Quydz2", "Rikkei Hospital", 8000));
-        list.add(new Employee(3, "Quydz3", "Rikkei Karaoke", 15000));
-        list.add(new Employee(4, "Quydz4", "Rikkei IT Dev", 14000));
+        list.add(new Employee(3, "Quydz3", "Rikkei Karaoke", 7000));
+        list.add(new Employee(4, "Quydz4", "Rikkei IT Dev", 9000));
         list.add(new Employee(5, "Quydz5", "Rikkei Hospital", 10000));
         list.add(new Employee(6, "Quydz6", "Rikkei Karaoke", 25000));
 
